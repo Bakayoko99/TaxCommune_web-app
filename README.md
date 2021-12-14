@@ -1,6 +1,6 @@
-## TaxCommune_web-app
+## TaxCommune
 
-Projet de groupe Konexio 2021 ( SOW Abdul, BAKAYOKO Bakagnan, FASULU Rahman )
+Projet de groupe Konexio 2021
 
 Application web Fullstack développé en React.js
 
